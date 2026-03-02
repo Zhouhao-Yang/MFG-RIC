@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model checkpoints
+TD_models/
+TD_models_2p/
+TD_models_Np/
+pinn_models/
+
+# Generated figures
+TD_figures/
+TD_figures_2p/
+TD_figures_Np/
+
+# Loss logs
+TD_loss_2p/
+
+# Data / pickles
+*.pkl
+
+# PDF
+*.pdf
+
+# Claude Code
+.claude/
