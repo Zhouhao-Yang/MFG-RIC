@@ -1,4 +1,4 @@
-# MFG-RIC: Reinforcement Learning for Randomized Impulse Control Games
+# MFG-RIC: Reinforcement Learning for Mean Field Games of Randomized Impulse Control Games
 
 This repository implements reinforcement-learning algorithms for **multi-player randomized impulse control games**, based on the two-fold randomization framework introduced in:
 
